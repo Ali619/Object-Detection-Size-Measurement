@@ -4,7 +4,7 @@ In this repository you can find a basic and simple Object Measurement project th
 While i don't have any camera with laser to measure the distance of the objects, I find out that i can use ArUco markers as a main measure and then use it to measure other objects in the camera. 
 Here in the photo blow, the green line is the aruco marker and the blue line is a detected object. Also the red dot is the center of the blue box. So we can calculate the *height* and *width* of a detected box-object from there.
 
-![](https://github.com/Ali619/Object-Detection-Size-Measurement/blob/main/measure_object_size_aruco.jpg?raw=true)
+![](https://github.com/Ali619/Object-Detection-Size-Measurement/blob/main/aruco_pic.jpg?raw=true)
 
 
 # Requirements: 
