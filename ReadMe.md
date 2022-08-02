@@ -21,6 +21,6 @@ The program will first detect *ArUco* and draw a green line around it. Then it w
 The size of ArUco (the one that i used in this project) is 5x5 centimeter. So we can divide the amount of Pixels that the camera detect by 20 and calculate the size. 
 
 # How to run the project:
-* You can run `measure_object_size_camera.py` file
+* You should run `measure_object_size_camera.py` file
 
 I hope you guys enjoy it 👍
